@@ -12,8 +12,6 @@ __pycache__/
 # PyCharm
 #.idea/
 
-# Database
-db/
 
 # Environments
 .env
